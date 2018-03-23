@@ -1,0 +1,14 @@
+<?php
+include 'header2.php';
+
+?>
+        <td valign="top">
+			<iframe name="iFrame" frameborder="0" width="100%" height="200" src="read/loggedin_dashboard.html"></iframe>
+		</td>
+    </tr>
+    <tr>
+        <td colspan="2" align="center">
+            Copyright &copy; 2017
+        </td>
+    </tr>
+</table>
